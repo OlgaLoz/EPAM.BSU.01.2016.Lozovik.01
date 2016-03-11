@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleUI", "ConsoleUI\Cons
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewtonMethod", "NewtonMethod\NewtonMethod.csproj", "{BA2B8A83-29EA-431C-8C57-0D9EFF0A8FA6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewtonMethod.Tests", "NewtonMethod.Tests\NewtonMethod.Tests.csproj", "{46E7AF64-046B-4BE5-8D1A-27871A478284}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{BA2B8A83-29EA-431C-8C57-0D9EFF0A8FA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BA2B8A83-29EA-431C-8C57-0D9EFF0A8FA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BA2B8A83-29EA-431C-8C57-0D9EFF0A8FA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46E7AF64-046B-4BE5-8D1A-27871A478284}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46E7AF64-046B-4BE5-8D1A-27871A478284}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46E7AF64-046B-4BE5-8D1A-27871A478284}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46E7AF64-046B-4BE5-8D1A-27871A478284}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

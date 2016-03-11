@@ -2,6 +2,7 @@
 using static System.Console;
 using static System.Math;
 using static NewtonMethod.Newton;
+using  JaggedArray;
 
 namespace ConsoleUI
 {
