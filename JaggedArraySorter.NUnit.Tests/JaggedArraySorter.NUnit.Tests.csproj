@@ -43,7 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="JaggedArrayTests.cs" />
+    <Compile Include="JaggedArrayDelegateTests.cs" />
+    <Compile Include="JaggedArrayInterfaceTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
